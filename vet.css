@@ -1,0 +1,11 @@
+#card{
+    background-color: rgb(218, 214, 219);
+    border-radius: 10px;
+    border: solid rgb(123, 97, 126);
+    color: rgb(95, 95, 95); 
+    size: 15px bold;
+}
+#card btn{
+background-color: black;
+}
+   
